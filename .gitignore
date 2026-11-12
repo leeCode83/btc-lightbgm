@@ -1,0 +1,9 @@
+# Data and outputs are regenerable; never commit them
+data/
+models/
+results/
+__pycache__/
+*.pyc
+*.parquet
+*.zip
+*.csv
